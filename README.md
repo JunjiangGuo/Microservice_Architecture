@@ -1,0 +1,3 @@
+- Use the previously defined architecture
+- Migrate the developed SOAP services into RESTFull services
+- Analyze and compare the two models (SOAP and REST).
